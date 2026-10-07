@@ -15,9 +15,10 @@
 ## 👨‍💻 Sobre mí
 
 - 📍 Desde **Perú**.
-- 🔭 Actualmente trabajando en proyectos de **Desarrollo Web** y de **Internet de las Cosas (IoT)**.
-- 💻 Experiencia desarrollando con **TypeScript, JavaScript, HTML, CSS** y **C++**.
-- 🚀 Siempre dispuesto a aprender nuevas tecnologías y enfrentar nuevos retos.
+- 🎓 Estudiante del 9° ciclo de **Ingeniería de Computación y Sistemas**.
+- 🔭 Actualmente enfocado en desarrollar mi carrera profesional creando proyectos de **Desarrollo Web** y explorando el mundo del **Internet de las Cosas (IoT)**.
+- 💻 Apasionado por el desarrollo de software y la integración de sistemas. Disfruto construyendo soluciones, desde aplicaciones web robustas hasta sistemas embebidos, aplicando mis conocimientos en **TypeScript, JavaScript, HTML, CSS** y **C++**.
+- 🚀 Siempre entusiasta por aprender nuevas arquitecturas, adoptar mejores prácticas de código y enfrentar retos que me permitan crecer profesionalmente.
 
 <br />
 
